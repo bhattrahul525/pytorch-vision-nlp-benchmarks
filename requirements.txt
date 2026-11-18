@@ -1,0 +1,23 @@
+# Packages actually imported by the notebooks in this repo.
+# No exact versions were recorded for most packages except PyTorch (seen as
+# "PyTorch: 2.11.0" in a saved notebook output); the rest are left unpinned.
+torch
+torchvision
+torchsummary
+timm
+transformers
+datasets
+gensim
+scikit-learn
+scipy
+numpy
+pandas
+pillow
+matplotlib
+gdown
+requests
+six
+
+# Needed to open/run the notebooks themselves (not imported by name in code cells).
+jupyter
+ipython

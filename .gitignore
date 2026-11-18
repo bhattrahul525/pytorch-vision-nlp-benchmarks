@@ -1,0 +1,11 @@
+# Data and model artifacts (never commit — too large, and not needed to read the notebooks)
+data/
+*.pt
+*.pth
+*.ckpt
+
+# Jupyter / Python housekeeping
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
